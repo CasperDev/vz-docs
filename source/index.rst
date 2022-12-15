@@ -3,18 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to VTech Laser 210 (and clones)'s documentation!
-========================================================
+VTech Laser 210 (and clones)'s documentation!
+=============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
+   memmap
+   memmap/iolatch
 
 
 Indices and tables
 ==================
 
+* :ref:`Hardware Register <IOLATCH>`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
